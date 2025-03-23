@@ -14,7 +14,8 @@ Durante o curso já aprendi sobre análise de testes com:
 - Back-end;
 - API com Postman e Swegger;
 - Testes em Mobile com Android Studio;
-- Aumotação de Testes
+- Aumotação de Testes;
+- Jira para relatórios.
 Tenho grande interesse em automação e Inteligência Artificial e pretendo me aprofundar ainda mais em breve.
 
 Sou apaixonado por desafios e sempre gostei de **investigação e de observar os mínimos detalhes**.
@@ -31,12 +32,7 @@ A área do Direito me permitiu desenvolver e aprimorar diversas **soft skills.**
 
 Acredito que essas habilidades contribuirão significativamente em um ambiente de trabalho colaborativo.
 
-Sou formado em Direito pelo IDP, em Brasília.
-
-Experiência:
-Estágios na área jurídica:
-Ministério da Justiça (CNCP – Conselho Nacional de Combate à Pirataria);
-Superior Tribunal de Justiça (SETRI – Setor de Análise de Pressupostos Processuais; Seção de Apoio à Sexta Turma);
-Superior Tribunal Militar (Gabinete de Ministro).
-Atuação como advogado dativo em duas ocasiões.
-Atuação em mais de cinco processos como advogado particular.
+#### Você também me encontra em: 
+<a href="https://www.linkedin.com/in/pedro-paiva-6a490a346/"  >
+<img width="70" height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
