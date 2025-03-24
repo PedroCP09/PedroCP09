@@ -27,9 +27,9 @@ Sou apaixonado por desafios e sempre gostei de **investigação e de observar os
 **Inglês nível B2** (em constante evolução).
 
 A área do Direito me permitiu desenvolver e aprimorar diversas **soft skills.**
-**Já fiz despachos em gabinetes de desembargadores.**
-**Já elaborei peças jurídicas de primeiro grau de jurisdição.**
-**Já atuei promovendo conciliações.**
+**Fiz despachos em gabinetes de desembargadores.**
+**Elaborei peças jurídicas de primeiro grau de jurisdição.**
+**Atuei promovendo conciliações.**
 **Sou extremamente comprometido com prazos** – não os perco de forma alguma!
 
 Acredito que essas habilidades contribuirão significativamente em um ambiente de trabalho colaborativo.
