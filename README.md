@@ -1,40 +1,65 @@
-## Seja Bem-Vindo!👋
-  Bom dia/Boa tarde/Boa noite!
-  
-  Quem sou eu?
-- Analista de Qualidade pela Tripleten 🔍
-- Advogado
+# 👋 Seja bem-vindo ao meu perfil no GitHub!
 
-Para entender melhor minhas qualificações, é importante destacar que, sim, sou advogado, mas, no momento, estou em transição para a carreira Tech🧑‍💻.
+Olá, meu nome é **Pedro Paiva**, sou formado em Direito e atualmente atuo como **Analista de Qualidade de Software (QA)**, com formação concluída pela **Tripleten**.
 
-Apesar de ser muito feliz em minha primeira formação, tenho me interessado bastante pela Análise de Qualidade e desejo contribuir com projetos futuros no mundo da TI.
-**Atualmente, estou fazendo o Bootcamp da TripleTen para Analista de Qualidade.**
-Durante o curso já aprendi sobre análise de testes com:
-- Front-end;
-- Back-end;
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E);
-- API com ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white);
-- Testes em Mobile ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white);
-- Aumotação ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e);
-- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-  
-Tenho grande interesse em automação e Inteligência Artificial e pretendo me aprofundar ainda mais em breve.
+Desde sempre, a tecnologia despertou em mim grande admiração. Por um objetivo pessoal e profissional, decidi migrar de carreira e me dedicar à área de Qualidade de Software.
+Acredito que as pessoas não nascem limitadas a um único dom ou vocação: é possível aprender, evoluir e até mesmo integrar experiências de diferentes áreas para construir soluções completas e criativas.
 
-Sou apaixonado por desafios e sempre gostei de **investigação e de observar os mínimos detalhes**.
-**Prezo imensamente pelos compromissos de trabalho.**
-**Tenho comunicação assertiva e escrita clara.**
-**Possuo facilidade para trabalhar em equipe** e estou sempre à disposição para ajudar quem precisar.
-**Inglês nível B2** (em constante evolução).
+---
 
-A área do Direito me permitiu desenvolver e aprimorar diversas **soft skills.**
-**Fiz despachos em gabinetes de desembargadores.**
-**Elaborei peças jurídicas de primeiro grau de jurisdição.**
-**Atuei promovendo conciliações.**
-**Sou extremamente comprometido com prazos** – não os perco de forma alguma!
+## 🎯 Objetivos e Direcionamento Profissional
 
-Acredito que essas habilidades contribuirão significativamente em um ambiente de trabalho colaborativo.
+- Finalizei o curso de QA pela **Tripleten**, com ênfase prática em testes manuais e automatizados;
+- Estou em processo de obtenção da **certificação CTFL (ISTQB)**;
+- Me especializando em **automação de testes** e com grande interesse em **Inteligência Artificial**;
+- Buscando oportunidades para contribuir em projetos de tecnologia com foco em qualidade, performance e colaboração em equipe.
 
-#### Você também me encontra em: 
-<a href="https://www.linkedin.com/in/pedro-paiva-6a490a346/"  >
-<img width="70" height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+---
+
+## 💼 Soft Skills e Experiência Transferível
+
+Minha formação jurídica proporcionou uma base sólida em habilidades essenciais, que aplico com eficácia no mundo da tecnologia:
+
+- Forte **atenção aos detalhes**
+- **Pensamento analítico** e visão investigativa
+- **Comprometimento com prazos** e responsabilidade profissional
+- Comunicação **assertiva** e escrita técnica clara
+- Facilidade para atuar em **equipe multidisciplinar** ou de forma autônoma
+
+---
+
+## 🧰 Minhas Tecnologias
+
+### ▶️ Testes e Qualidade  
+- Testes em **Front-end** e **Back-end**  
+- Testes de **APIs** com:  
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+### ▶️ Mobile  
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+
+### ▶️ Organização de Tarefas  
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### ▶️ Banco de Dados  
+![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+
+### ▶️ Automação de Testes  
+![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### ▶️ Linguagem de Programação  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Se você atua com tecnologia, QA ou está em busca de novos talentos, será um prazer trocar experiências.  
+Convido você a visitar meu perfil no LinkedIn, **conectar-se comigo e iniciar uma boa conversa**:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-paiva-6a490a346/)
+
+---
+
+**Agradeço por sua visita!** 🚀
