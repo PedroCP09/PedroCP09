@@ -10,7 +10,7 @@ Acredito que as pessoas não nascem limitadas a um único dom ou vocação: é p
 ## 🎯 Objetivos e Direcionamento Profissional
 
 - Finalizei o curso de QA pela **Tripleten**, com ênfase prática em testes manuais e automatizados;
-- Estou em processo de obtenção da **certificação CTFL (ISTQB)**;
+- Tenho a **Certificação CTFL 4.0 (ISTQB)**;
 - Me especializando em **automação de testes** e com grande interesse em **Inteligência Artificial**;
 - Buscando oportunidades para contribuir em projetos de tecnologia com foco em qualidade, performance e colaboração em equipe.
 
