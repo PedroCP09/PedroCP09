@@ -18,7 +18,7 @@ Acredito que as pessoas não nascem limitadas a um único dom ou vocação: é p
 
 ## 💼 Soft Skills e Experiência Transferível
 
-Minha formação jurídica proporcionou uma base sólida em habilidades essenciais, que aplico com eficácia no mundo da tecnologia:
+Minha formação e atuação jurídica proporcionaram uma base sólida em habilidades essenciais, que aplico com eficácia no mundo da tecnologia:
 
 - Forte **atenção aos detalhes**
 - **Pensamento analítico** e visão investigativa
@@ -58,7 +58,7 @@ Minha formação jurídica proporcionou uma base sólida em habilidades essencia
 Se você atua com tecnologia, QA ou está em busca de novos talentos, será um prazer trocar experiências.  
 Convido você a visitar meu perfil no LinkedIn, **conectar-se comigo e iniciar uma boa conversa**:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-paiva-6a490a346/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qapedroaugustopaiva/)
 
 ---
 
