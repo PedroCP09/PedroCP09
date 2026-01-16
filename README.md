@@ -9,22 +9,24 @@ Acredito que as pessoas não nascem limitadas a um único dom ou vocação: é p
 
 ## 🎯 Objetivos e Direcionamento Profissional
 
-- Finalizei o curso de QA pela **Tripleten**, com ênfase prática em testes manuais e automatizados;
-- Tenho a **Certificação CTFL 4.0 (ISTQB)**;
-- Me especializando em **automação de testes** e com grande interesse em **Inteligência Artificial**;
-- Buscando oportunidades para contribuir em projetos de tecnologia com foco em qualidade, performance e colaboração em equipe.
+- Concluí o curso de Quality Assurance pela Tripleten, com forte ênfase prática em testes manuais, testes de API e fundamentos de automação;
+- Possuo a certificação ISTQB CTFL 4.0;
+- Atuo com uma abordagem de QA orientada a requisitos, riscos e cenários reais de uso, buscando garantir qualidade desde as fases iniciais do desenvolvimento;
+- Estou em constante evolução em automação de testes, aplicando boas práticas, organização e reutilização de cenários em projetos práticos;
+- Tenho especial interesse em qualidade aplicada a sistemas com dados sensíveis, compliance e regulamentação;
+- Busco oportunidades como QA Júnior / Test Analyst para contribuir em projetos de tecnologia com foco em qualidade, colaboração em equipe e melhoria contínua.
 
 ---
 
 ## 💼 Soft Skills e Experiência Transferível
 
-Minha formação e atuação jurídica proporcionaram uma base sólida em habilidades essenciais, que aplico com eficácia no mundo da tecnologia:
+Minha formação e experiência no Direito contribuíram para o desenvolvimento de competências essenciais, hoje aplicadas diretamente na área de Qualidade de Software:
 
-- Forte **atenção aos detalhes**
-- **Pensamento analítico** e visão investigativa
-- **Comprometimento com prazos** e responsabilidade profissional
-- Comunicação **assertiva** e escrita técnica clara
-- Facilidade para atuar em **equipe multidisciplinar** ou de forma autônoma
+- Forte atenção aos detalhes, essencial para identificar inconsistências, falhas funcionais e comportamentos inesperados;
+- Pensamento analítico e abordagem investigativa para análise de requisitos, cenários de teste e causas raiz de defeitos;
+- Comprometimento com prazos, organização e responsabilidade, fundamentais em ambientes ágeis e ciclos curtos de entrega;
+- Comunicação clara e objetiva, com foco em documentação técnica, reporte de defeitos e alinhamento com times de produto e desenvolvimento;
+- Facilidade para atuar de forma colaborativa em equipes multidisciplinares ou de maneira autônoma, mantendo foco em qualidade e resultado.
 
 ---
 
